@@ -1,2 +1,0 @@
-# hostview
-# yourplacetemplate
